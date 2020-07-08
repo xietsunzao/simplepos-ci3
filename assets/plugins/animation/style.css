@@ -1,0 +1,37 @@
+input {
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 4px;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: darkgray;
+    color: rgba(0,0,0,.7);
+    padding-left: 10px;
+    text-align: left;
+    width: 80%;
+    height: 50px;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 4px;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: darkgray;
+    color: rgba(0,0,0,.7);
+    text-align: center;
+    width: 40%;
+    height: 50px;
+}
+
+#loginContainer {
+    padding-top: 40px;
+    height: 550px;
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(135,206,250,.7);
+    border-radius: 10px;
+    box-shadow: 0 8px 6px -6px rgba(0,0,0,.6);
+}
