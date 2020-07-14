@@ -7,7 +7,7 @@ class Auth extends CI_controller
 		parent::__construct();
 		$this->load->model('Model_operator');
 	}
-
+	
 	function login()
 	{
 		if (isset($_POST['submit'])) {
